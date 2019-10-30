@@ -23,7 +23,7 @@ const appRoutes: Routes = [
   },
   {
     path: '',
-    redirectTo: '/products',
+    redirectTo: 'products',
     pathMatch: 'full'
   }
 ];
